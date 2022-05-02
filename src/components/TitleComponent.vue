@@ -12,8 +12,9 @@ export default {
 
 <style scoped>
 h1 {
-  font-size: 20px;
+  font-size: 3rem;
   text-align: center;
   color: purple;
+  margin: 2rem;
 }
 </style>
